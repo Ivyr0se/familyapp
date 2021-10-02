@@ -1,0 +1,53 @@
+h1 {
+    font-family:Pacifico, Times, serif;
+    font-size:55px
+      
+}
+
+body {
+    background-image: url(https://25.media.tumblr.com/tumblr_lmp4v1gPw11qcdtsho1_1280.jpg);
+}
+
+<div style=”height:200px; width:550px; overflow-x: scroll; overflow-y: scroll padding bottom:10px; border:3px solid black; “>
+<pre>
+
+{
+    border-color: green;
+    border-width: 10px;
+    border-style: solid;
+    border-radius: 10px;
+  }
+
+  .smaller-image {
+    width: 600px
+     
+  }
+  <style/>
+
+body {
+    color: maroon;
+}
+
+h1 {
+    color:black;
+    text-align: center
+}
+
+img {
+    border-radius: 30px;
+}  
+
+img {
+    position:relative;
+    left:45px;
+    top: 0px;
+    z-index: -1;
+}
+
+
+img {
+    position:relative;
+    left:49px;
+    top: 0px;
+    z-index: -1;
+}
